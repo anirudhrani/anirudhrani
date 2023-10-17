@@ -1,8 +1,11 @@
-Hi 👋 I'm Anirudh Rani 
+Hi 👋 I'm Venkata Rani (Ven)
 ==================================  
-Data Science | Machine Learning 
+Generative AI | Machine Learning System Design | Data Science.
 --------------------------------------------------  
---> Hmm. Let's talk about Data Pipelines.  
+
+- I'm a PhD student at Robotics and Dynamical Systems Group at Arizona State University (ASU).
+- My research is in the intersection Generative AI and Robotics.
+
   
 ![anirudhrani](https://komarev.com/ghpvc/?username=anirudhrani&label=Profile%20views&color=0e75b6&style=flat)
 
