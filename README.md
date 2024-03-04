@@ -1,6 +1,6 @@
 Hi 👋 I'm Venkata Rani (Ven)
 ==================================  
-Generative AI | Machine Learning System Design | Data Science.
+Generative AI | Machine Learning System Design | Robotics.
 --------------------------------------------------  
 
 - I'm a PhD student at Robotics and Dynamical Systems Group at Arizona State University (ASU).
