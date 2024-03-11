@@ -4,7 +4,7 @@ Generative AI | Machine Learning System Design | Robotics.
 --------------------------------------------------  
 
 - I'm a PhD student at Robotics and Dynamical Systems Group at Arizona State University (ASU).
-- My research is in the intersection Generative AI and Robotics.
+- As a Research Associate at Arizona State University, I'm at the forefront of groundbreaking research in applied Gen AI. My work is driven by a passion for solving complex problems through technology, particularly in the fields of sensor calibration and medical imaging.
 
   
 ![anirudhrani](https://komarev.com/ghpvc/?username=anirudhrani&label=Profile%20views&color=0e75b6&style=flat)
