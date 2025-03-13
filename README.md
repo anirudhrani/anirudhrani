@@ -1,6 +1,6 @@
 Hi 👋 I'm Venkata Rani (Ven)
 ==================================  
-Language Driven Control for Robotic Manipulation.
+Natural Language Processing | Embodied AI | Robotics.
 --------------------------------------------------  
 
 - I'm a PhD student at Robotics and Dynamical Systems Group at Arizona State University (ASU).
